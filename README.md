@@ -1,6 +1,6 @@
 # Проект 3: Путешествие по России
 
-Ссылка на сайт [https://sonja-p.github.io/russian-travel/)
+Ссылка на сайт (https://sonja-p.github.io/russian-travel/)
 
 **Описание проекта**
 
