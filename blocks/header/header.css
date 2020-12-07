@@ -1,0 +1,35 @@
+.header {
+    max-width: 1184px;
+    width: 90.6%;
+    min-height: 52px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding-top: 28px;
+    margin: auto;
+}
+
+@media screen and (max-width: 1024px) {
+    .header {
+        width: 90.6%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header {
+        width: 93.4%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .header {
+        padding-top: 11px;
+        width: 90.6%;        
+    }
+}
