@@ -1,7 +1,7 @@
 .cover__link {
     text-decoration: none;
     text-align: center;
-    height: 57.7vw;
+    min-height: 740px;
     color: #ffffff;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -20,6 +20,6 @@
 
 @media screen and (max-width: 1024px) {
     .cover__link {
-        height: 62.5vw;
+        min-height: 62.5vw;
     }
 }

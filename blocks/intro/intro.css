@@ -1,5 +1,6 @@
 .intro {
-    width: 984px;
+    max-width: 984px;
+    width: 100%;
     padding-right: 22.7%;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
@@ -8,6 +9,7 @@
 @media screen and (max-width: 1024px) {
     .intro {
         width: 90.6%;
+        padding-right: calc(90.6% - 690px);
     }
 }
 

@@ -3,7 +3,6 @@
     line-height: 28px;
     text-decoration: none;
     color: #ffffff;
-    margin-right: 15px;
 }
 
 .header__lang-link:hover {
@@ -11,10 +10,6 @@
     -webkit-transition: opacity 350ms ease;
     -o-transition: opacity 350ms ease;
     transition: opacity 350ms ease;
-}
-
-.header__lang-link:last-of-type {
-    margin-right: 0;
 }
 
 @media screen and (max-width: 320px) {
