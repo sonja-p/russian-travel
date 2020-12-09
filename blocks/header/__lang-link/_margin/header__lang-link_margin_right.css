@@ -1,0 +1,7 @@
+.header__lang-link_margin_right {
+    margin-right: 15px;
+}
+
+.header__lang-link_margin_right:last-of-type {
+    margin-right: 0;
+}
