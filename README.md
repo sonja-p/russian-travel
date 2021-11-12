@@ -1,7 +1,9 @@
 # Практическая работа Яндекс.Практикум - Проект: Путешествие по России 
 
 <p align="center">
- <img src="https://github.com/sonja-p/russian-travel/blob/main/images/lead-polka.png" alt="DevFel" width="350px"></a>
+ <a href="https://sonja-p.github.io/russian-travel/" rel="noopener">
+  <img src="https://github.com/sonja-p/russian-travel/blob/main/images/lead-polka.png" alt="cover" width="350px">
+ </a>
 </p>
 
 ## 🌏 Описание проекта <a name = "description"></a>
